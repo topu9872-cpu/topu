@@ -1,0 +1,149 @@
+header{
+    background-image:url('../images/header_bg.png'),url('images/developer.png');
+    background-repeat:no-repeat; 
+    background-position: left bottom;
+    width: auto;
+    background-color: #ffcccc;
+}
+body{
+    font-family:arial;
+    height:auto;
+    width: auto;
+background-image: left bottom;
+}
+.one{
+    display:flex;
+    justify-content: space-between;
+    align-items:center;
+}
+.one ul{
+display:flex;
+gap:25px;
+text-decoration: none;
+display:flex;
+}
+.two button{
+    background-color:orangered;
+    color:white;
+    border:none;
+    padding:10px;
+    font-size:15px;
+    border-radius:5px;
+    margin-right:10px;
+    font-weight:bold;
+;
+}
+ .one h2{
+    color:black;
+    margin-left:10px;
+    font-weight:bold;
+}
+.one h2 span{
+    color:orangered;
+}
+.three h2{
+    color:#474747;
+    font-size:1.5em;
+    padding:10px;
+    margin-top:60px;
+}
+.three h1 {
+    color:rgb(47, 43, 43);
+    font-size:2em;
+    margin-bottom:30px;;
+}
+.three p{
+    color:#474747;
+    font-size:1.05em;
+    line-height:1.25em;
+    display:flex;
+    text-wrap: wrap;
+}
+.three{
+    display:flex;
+    justify-content:space-between;
+    align-items:center;
+ padding-left: 150px;
+}
+.six{
+    display:flex;
+    gap:20px;
+    padding:10px;
+}
+.eight button{
+    background:10px orangered;
+    color:white;
+    padding:5px;
+    font-weight:bold;
+    border:none;
+    border-radius:5px;
+
+}
+button{
+    color:orangered;
+    background:white;
+    padding:5px 8px;
+    font-weight:bold;
+    border:orangered 2px solid;
+    border-radius:5px;
+    cursor:pointer;
+}
+.eight img{
+    height:400px;
+    width:300px;
+}
+#a {
+margin-top: 46px;
+padding:36px 37px;
+background-color:#fff8f3;
+text-align: center;
+width:600px;
+justify-content: center;
+margin-left:320px;
+border-radius: 20px;
+}
+.a h4{
+    width: bold;
+    font-size:1.5em
+}
+.b p{
+    color:#474747;
+    line-height: 1.35em;
+    line-break: wrap;
+}
+#a .c{
+display:flex;
+justify-content: space-around;
+line-height:0px;
+padding:37px;
+}
+#a .c p{
+    color:#474747
+}
+#a .c h5{
+    font-weight:bold;
+    cursor:pointer;
+}
+#m{
+text-align: center;
+margin-top: 10px;
+padding-top:40px;
+display:flex;
+width:auto;
+height:600px;
+}
+#mehedi{
+    display:flex;
+    text-decoration: black;
+    gap:20px;
+    justify-content: center;
+    
+
+}
+.l,.o,.v,.em{
+    background-color: rgb(242, 247, 247);
+    padding:20px;
+    border-radius: 20px;
+    height:auto;
+    width: 150px;
+}
